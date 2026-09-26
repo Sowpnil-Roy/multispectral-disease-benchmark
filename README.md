@@ -147,7 +147,7 @@ estimates.
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). Please replace the placeholders
+See DOI:10.5281/zenodo.22982715. Please replace the placeholders
 (`<AUTHORS>`, `<CONFERENCE>`, `<LINK>`) after publication.
 
 ## License
