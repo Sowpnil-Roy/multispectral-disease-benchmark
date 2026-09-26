@@ -35,7 +35,7 @@ Every number in the paper is produced by this repository, and
 Python 3.12 is recommended (tested on Linux x86-64).
 
 ```bash
-git clone <LINK>
+git clone (https://github.com/Sowpnil-Roy/multispectral-disease-benchmark.git)
 cd multispectral-disease-benchmark
 pip install -r requirements.txt
 
