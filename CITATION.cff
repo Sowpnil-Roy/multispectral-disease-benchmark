@@ -4,14 +4,13 @@ title: "Physics-Guided Band Configuration and Lightweight Machine Learning for M
 type: software
 license: MIT
 authors:
-  - family-names: "<FAMILY NAME>"
-    given-names: "<GIVEN NAME>"
-repository-code: "<LINK>"
+  - family-names: "Roy"
+    given-names: "Sowpnil"
+repository-code: "https://github.com/Sowpnil-Roy/multispectral-disease-benchmark"
 preferred-citation:
   type: conference-paper
   title: "Physics-Guided Band Configuration and Lightweight Machine Learning for Multispectral Crop Disease Detection: A Radiative-Transfer Simulation Benchmark"
   authors:
-    - family-names: "<FAMILY NAME>"
-      given-names: "<GIVEN NAME>"
-  collection-title: "<CONFERENCE NAME>"
+    - family-names: "Roy"
+      given-names: "Sowpnil"
   year: 2026
