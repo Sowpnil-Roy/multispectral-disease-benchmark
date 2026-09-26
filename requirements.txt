@@ -1,0 +1,10 @@
+# Exact versions used for the paper run (Python 3.12, Linux x86-64).
+# Other recent versions will run, but bit-exact reproduction of every
+# reported number is only guaranteed with these pins.
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+prosail==2.0.5
+numba==0.67.0
+pytest>=8

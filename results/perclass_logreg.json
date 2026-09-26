@@ -1,0 +1,26 @@
+{
+ "Greedy-5": {
+  "healthy": 0.685,
+  "chlorosis": 0.682,
+  "necrosis": 0.932,
+  "wilt": 0.62,
+  "healthy_as_wilt": 0.22,
+  "wilt_as_healthy": 0.235
+ },
+ "GreedyX-5": {
+  "healthy": 0.735,
+  "chlorosis": 0.797,
+  "necrosis": 0.94,
+  "wilt": 0.76,
+  "healthy_as_wilt": 0.13,
+  "wilt_as_healthy": 0.177
+ },
+ "Full-59": {
+  "healthy": 0.745,
+  "chlorosis": 0.805,
+  "necrosis": 0.96,
+  "wilt": 0.775,
+  "healthy_as_wilt": 0.2,
+  "wilt_as_healthy": 0.18
+ }
+}

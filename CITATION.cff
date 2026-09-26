@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper below."
+title: "Physics-Guided Band Configuration and Lightweight Machine Learning for Multispectral Crop Disease Detection: A Radiative-Transfer Simulation Benchmark (code)"
+type: software
+license: MIT
+authors:
+  - family-names: "<FAMILY NAME>"
+    given-names: "<GIVEN NAME>"
+repository-code: "<LINK>"
+preferred-citation:
+  type: conference-paper
+  title: "Physics-Guided Band Configuration and Lightweight Machine Learning for Multispectral Crop Disease Detection: A Radiative-Transfer Simulation Benchmark"
+  authors:
+    - family-names: "<FAMILY NAME>"
+      given-names: "<GIVEN NAME>"
+  collection-title: "<CONFERENCE NAME>"
+  year: 2026
